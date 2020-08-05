@@ -15,4 +15,6 @@ Once you make a search in Yandex.ru, you can run this script from the browser's 
 
 You can also convert this script into a bookmarket to use it from the bookmarks toolbar in your browser.
 
+---
+
 **Last update:** 04.08.2020
